@@ -19,7 +19,7 @@ From your local, generate and Set up SSH key pair for Github.
 Clone this Git repo to your local machine.
 
 ```bash
-
+git@github.com:NashTech-Labs/Pipeline_yam_code_to_publish_private_dns_zone_to_azure_artifacts.git
 
 ```
 
